@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://github.com/Clumsynite" class="rich-diff-level-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Clumsynite&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Clumynite's github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Clumsynite&count_private=true&show_icons=true&theme=midnight-purple&line_height=27" alt="Clumynite's github stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Clumsynite" class="rich-diff-level-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clumsynite&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clumsynite&theme=midnight-purple&langs_count=8&layout=compact">
   </a>
 </p>
 
